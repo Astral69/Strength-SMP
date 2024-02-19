@@ -1,0 +1,12 @@
+name: strengthmain
+version: '1.0-SNAPSHOT'
+main: me.astral.strengthmain.StrengthMain
+api-version: '1.20'
+load: STARTUP
+authors: [Astral(astral2442)]
+description: Strength SMP plugin kill someone you get +1 strength
+commands:
+checkstrength:
+description: Check your strength level
+usage: /strength
+permission: strengthmain.checkstrength
