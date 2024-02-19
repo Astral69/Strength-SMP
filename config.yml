@@ -1,0 +1,13 @@
+#If your looking for the recipe its here
+#as of now changing this will not change the recipe
+#it will be updated in the next update :D
+recipe:
+enabled: true
+shape:
+- "ABA"
+- "BCB"
+- "ABA"
+ingredients:
+A: DIAMOND_BLOCK
+B: NETHERITE_BLOCK
+C: BOOK  
